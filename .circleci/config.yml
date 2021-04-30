@@ -71,8 +71,8 @@ workflows:
     - Jdat Notebooks-Ifu Cube Continuum Fit
     - Jdat Notebooks-Specviz Notebookgui Interaction
     - Pull Request
-    - Publish Website:
-        requires:
-        - Jdat Notebooks-Ifu Cube Continuum Fit
-        - Jdat Notebooks-Specviz Notebookgui Interaction
+    #- Publish Website:
+    #    requires:
+    #    - Jdat Notebooks-Ifu Cube Continuum Fit
+    #    - Jdat Notebooks-Specviz Notebookgui Interaction
   version: '2.1'
